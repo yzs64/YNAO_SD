@@ -23,7 +23,7 @@ The data sets contain two kinds of txt file.
 *_d.txt : daily information 
 
 Column    	Description
-1          	  Filename(<Yunan Astronomical Observatory(ynao)>_<sunspot data(sd)>_<date(YYMMDD)>_<time(HHMMSS)UT>_<type of data>_<observatory>_<observer>)
+1          	 Filename(<Yunan Astronomical Observatory(ynao)>_<sunspot data(sd)>_<date(YYMMDD)>_<time(HHMMSS)UT>_<type of data>_<observatory>_<observer>)
 2		Daily sunspot number(umbra+pore)
 3               Daily pore number
 4               Daily umbra number
