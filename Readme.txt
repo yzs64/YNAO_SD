@@ -1,3 +1,21 @@
+                                                   Yunan Astronomical Observatory Sunspot Data(YNAO_SD)
+
+The aim is to provide the daily sunspot numbers, pore numbers,umbra number,penumbra number,hole number,areas, umbral areas, penumbral areas of hand drawing images obtained from the Yunan Astronomical Observatory (YNAO) by the SPR_mask method. We also provide the information of each pore, spot, umbra and hole.
+
+
+DATA POLICY: If the sunspot data are used in any publications, please refer to this paper:
+
+DOI:
+
+
+Contact: Yunfei Yang (yangyf@escience.cn)
+Faculty of Information Engineering and Automation / Yunnan Key Laboratory of Computer Technology Application, Kunming University of Science and Technology, Kunming 650500, Yunnan, China
+
+
+
+
+
+
 EXPLANATIONS FOR THE TABLES OF YNAO HAND DRAWING CATALOGUE
 
 The data sets contain two kinds of txt file. 
