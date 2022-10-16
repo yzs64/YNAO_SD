@@ -29,8 +29,8 @@ Column    	Description
 4               Daily umbra number
 5               Daily penumbra number
 6               Daily hole number
-7		Total sunspot areas without solar projection effect (umbra + penumbra+pore) in millionths of the solar hemisphere
-8		Total sunspot areas after correcting solar projection effect (umbra + penumbra+pore) in millionths of the solar hemisphere
+7		Total sunspot areas without solar projection effect (umbra + penumbra + pore) in millionths of the solar hemisphere
+8		Total sunspot areas after correcting solar projection effect (umbra + penumbra + pore) in millionths of the solar hemisphere
 9		Umbra areas without solar projection effect in millionths of the solar hemisphere
 10		Umbra areas after correcting solar projection effect in millionths of the solar hemisphere
 11		Penumbra areas without solar projection effect in millionths of the solar hemisphere
