@@ -44,7 +44,7 @@ Column    	Description
 2		Classification of the object (pore, spot, umbra or hole)
 3		X-axis coordinates of the object in units of pixel
 4		Y-axis coordinates of the object in units of pixel
-5                              The object belongs to which hemisphere
+5   The object belongs to which hemisphere
 6		The object area without solar projection effect in millionths of the solar hemisphere
 7		The object area after correcting solar projection effect in millionths of the solar hemisphere
 8		The radius of sun disc in units of pixel 
