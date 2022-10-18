@@ -1,4 +1,4 @@
-                                                Yunan Astronomical Observatory Sunspot Drawing Data(YNAO_SD)
+                                                Yunan Astronomical Observatory Sunspot Drawings Data(YNAO_SD)
 
 The aim is to provide the daily sunspot numbers, pore numbers,umbra number,penumbra number,hole number,areas, umbral areas, penumbral areas of hand drawing images obtained from the Yunan Astronomical Observatory (YNAO) by the SPR_mask method. We also provide the information of each pore, spot, umbra and hole.
 
