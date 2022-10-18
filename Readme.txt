@@ -8,7 +8,7 @@ DATA POLICY: If the sunspot data are used in any publications, please refer to t
 DOI:
 
 
-Contact: Yunfei Yang (yangyf@escience.cn)
+Contact: Yunfei Yang (yangyf@kust.edu.cn)
 Faculty of Information Engineering and Automation / Yunnan Key Laboratory of Computer Technology Application, Kunming University of Science and Technology, Kunming 650500, Yunnan, China
 
 
